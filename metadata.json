@@ -1,0 +1,6 @@
+{
+  "name": "GoalForge AI",
+  "description": "AI-Powered Student, Career, Campus & Life Management Ecosystem",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
